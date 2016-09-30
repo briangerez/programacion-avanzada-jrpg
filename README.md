@@ -13,8 +13,8 @@
 * Donatella Vitelli ([donatellaVitelli](https://github.com/donatellaVitelli))
 * Martin Ferrarese ([ferrafmz](https://github.com/ferrafmz))
 * Barbara Almaraz ([barbialmaraz](https://github.com/barbialmaraz))
-* Jorge ([ajorgeg21](https://github.com/ajorgeg21))
-* Javier ([javierjlc](https://github.com/javierjlc))
+* Jorge Gomez([ajorgeg21](https://github.com/ajorgeg21))
+* Javier Calapiña([javierjlc](https://github.com/javierjlc))
 
 ## Sobre la tecnología
 
